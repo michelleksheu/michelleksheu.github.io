@@ -1,0 +1,27 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: Helvetica Neue, Helvetica,sans-serif;
+	height: 100%;
+	width: 100%;
+}
+
+
+/* TOPBAR CSS */
+#topbar {
+
+}
+
+
+/* CSS STYLING FOR ALL SECTIONS */
+#one {
+	background-color: #fffdfb;
+
+.section {
+	height: 92%;
+	width: 92%;
+	padding: 4%;
+}
